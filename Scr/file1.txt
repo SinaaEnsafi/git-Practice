@@ -1,3 +1,8 @@
 hello
 It is file light
+<<<<<<< HEAD
 urhyeiuyuigi
+=======
+urhyeiuyui
+xcdxcdcd
+>>>>>>> 32e69f77b535655eedd687a1be52dee0dfc02aaa
